@@ -1,2 +1,0 @@
-# reactErrorBoundary
-Created with CodeSandbox
